@@ -1,0 +1,5 @@
+docutils
+Pygments
+pyparsing
+Sphinx
+sphinxcontrib-bibtex
