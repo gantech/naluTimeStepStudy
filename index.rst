@@ -7,6 +7,7 @@ The objective of this work is to modify any part of Nalu-Wind to make the result
 
 .. toctree::
    :maxdepth: 2
+              
    currentBehavior.rst
    improvements.rst
    zrefs.rst

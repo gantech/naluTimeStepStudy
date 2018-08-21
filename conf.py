@@ -104,10 +104,7 @@ todo_include_todos = False
 # a list of builtin themes.
 #
 # html_theme = 'bizstyle'
-if readTheDocs:
-    html_theme = 'default'
-else:
-    html_theme = 'sphinx_rtd_theme'
+html_theme = 'default'
 html_logo = 'naluLowMach.jpg'
 
 # Theme options are theme-specific and customize the look and feel of a theme
